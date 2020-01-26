@@ -3,3 +3,6 @@ az-snappers-db/.vs/azure-snappers-db/v16/.suo
 *.user
 *.jfm
 *.cache
+az-snappers-db/.vs/az-snappers-db/v16/.suo
+*.dll
+*.pdb

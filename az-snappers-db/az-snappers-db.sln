@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "azure-snappers-db", "azure-snappers-db.sqlproj", "{74A73E63-A2FE-4638-9CF5-31D50980E3C7}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "az-snappers-db", "az-snappers-db.sqlproj", "{74A73E63-A2FE-4638-9CF5-31D50980E3C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
